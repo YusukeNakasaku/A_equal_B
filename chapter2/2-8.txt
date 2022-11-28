@@ -1,0 +1,10 @@
+cb=bc
+ca=ac
+ba=ab
+aaaa=(return)a
+bbbb=(return)b
+ccc=(return)c
+aaa=(return)a
+bb=(return)b
+cc=(return)c
+aa=(return)a

@@ -1,0 +1,10 @@
+cb=bc
+ca=ac
+ba=ab
+aa=(return)false
+abbccc=(return)true
+a=(return)false
+bc=X
+bXc=X
+Xc=(return)true
+=(return)false
